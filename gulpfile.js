@@ -31,7 +31,7 @@ gulp.task('ship-to-gitlab', function (done) {
 
         for (var changedFileName of changedFileNames.split(',')) {
 
-            if (changedFileName !== null && changedFileName !== '') {
+            if (changedFileName !== null && changedFileName !== '' && changedFileName !== '.gitignore') {
 
                 if (fs.existsSync('../asp.net-core-docs/' + changedFileName)) {
                     // It will update the modified files
