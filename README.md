@@ -1,6 +1,6 @@
 # Syncfusion ASP.NET Core Documentation
 
-This is the GitHub repository for the technical product documentation. This documentation is published to http://help.syncfusion.com/aspnet-core
+This is the GitHub repository for the technical product documentation for Syncfusion ASP.NET Core components. This documentation is published to http://help.syncfusion.com/aspnet-core
 
 ## Contributions Welcome!
 
