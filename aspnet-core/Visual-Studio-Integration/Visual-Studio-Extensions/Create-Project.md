@@ -7,13 +7,15 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Create Project
+# Create ASP.NET Core application
 
 Syncfusion provides the **Visual Studio Project Templates** for the Syncfusion ASP.NET Core platform to create the Syncfusion ASP.NET Core Application with the Essential JS 1 components.  
 
 I> The Syncfusion ASP.NET Core project templates are available from v15.2.0.40.  
 
 Use the following steps to create the **Syncfusion ASP.NET Core (Essential JS 1) Application** through the **Visual Studio Project Template**:
+
+> Before use the Syncfusion ASP.NET Core (Essential JS 1) Project Template, check whether the **Syncfusion Essential JS1 AspNet Core VSExtensions** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and Updates -> Installed for Visual Studio 2017 or lower and for Visual Studio 2019 by clicking on the Extensions -> Manage Extensions -> Installed.
 
 1. To create a Syncfusion ASP.NET Core (Essential JS 1) project, follow either one of the options below:
 

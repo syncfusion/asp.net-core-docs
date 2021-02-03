@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Troubleshooting
+# Troubleshoot the project
 
 Troubleshoot the project with the Syncfusion configuration and apply the fix like, wrong .NET Framework version of added Syncfusion assembly to the project or missing any Syncfusion dependent assembly of a referred assembly. The Syncfusion Troubleshooter can do the following:
 
@@ -18,6 +18,8 @@ Troubleshoot the project with the Syncfusion configuration and apply the fix lik
 ## Report the Configuration issues
 
 The following steps help you to utilize the Syncfusion Troubleshooter by Visual Studio. 
+
+> Before use the Syncfusion Troubleshooter for ASP.NET Core (Essential JS 1), check whether the **Syncfusion Essential JS1 AspNet Core VSExtensions** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and Updates -> Installed for Visual Studio 2017 or lower and for Visual Studio 2019 by clicking on the Extensions -> Manage Extensions -> Installed. 
 
 1. To open Syncfusion Troubleshooter Wizard, follow either one of the options below: 
    
