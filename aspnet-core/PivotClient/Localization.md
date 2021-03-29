@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Localization | PivotClient | ASP.NET Core | Syncfusion
+title: Localization in ASP.NET Core PivotClient control | Syncfusion
 description: This document illustrates that how to define localization with respective to the modes in ASP.NET Core  PivotClient control
 platform: aspnet-core
 control: PivotClient

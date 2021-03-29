@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Getting Started | ASP.NET Core | Syncfusion
-description: Getting Started.
+title: Getting Started with ASP.NET Core Kanban Control| Syncfusion
+description: Getting started with Introduction of aspnet-core kanban control and steps to configure the Syncfusion components in an ASP.NET Core application.
 platform: aspnet-core 
 control: Kanban 
 documentation: ug
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core kanban Control
 
 Refer the [Getting Started](/aspnet-core/getting-started) page of the Introduction part to know more about the basic system requirements and the steps to configure the Syncfusion components in an ASP.NET Core application.
 
@@ -132,7 +132,7 @@ You can bind the data to Kanban control by either locally or remotely. Assign th
 {% endtabs %}  
 
 
-![](getting-started-images/Kanban_img.png)
+![ASP.NET Core Kanban getting-started Kanban Image](getting-started-images/Kanban_img.png)
 
 ## Mapping Values
 
@@ -223,7 +223,7 @@ In order to display cards in Kanban control, you need to map the database fields
 
 {% endtabs %}  
 
-![](getting-started-images/Kanban_img1.png)
+![ASP.NET Core Kanban getting-started Kanban Image1](getting-started-images/Kanban_img1.png)
 
 ## Enable Swimlane
 
@@ -310,7 +310,7 @@ In order to display cards in Kanban control, you need to map the database fields
 
 {% endtabs %}  
 
-![](getting-started-images/Kanban_img2.png)
+![ASP.NET Core Kanban getting-started Kanban Image2](getting-started-images/Kanban_img2.png)
 
 ## Adding Filters
 
@@ -401,4 +401,4 @@ Filter allows to filter the collection of cards from `DataSource` which meets th
 
 {% endtabs %}  
 
-![](getting-started-images/Kanban_img3.png)
+![ASP.NET Core Kanban getting-started Kanban Image3](getting-started-images/Kanban_img3.png)

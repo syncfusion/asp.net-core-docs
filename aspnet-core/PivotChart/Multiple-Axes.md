@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Multiple Axes | PivotChart | ASP.NET Core | Syncfusion
+title: Multiple Axes in ASP.NET Core PivotChart control| Syncfusion
 description: This document illustrates that how to define multiple-axes and its properties in ASP.NET Core PivotChart control
 platform: aspnet-core
 control: PivotChart
 documentation: ug
 ---
 
-# Multiple Axes
+# Multiple Axes for ASP.NET Core PivotChart Control
 
 You can split the pivot chart and its area into multiple panes to draw multiple series with multiple axes. Additional vertical/horizontal axes in the pivot chart can be created by the [`axes`](/api/js/ejpivotchart#members:axes) property.
 

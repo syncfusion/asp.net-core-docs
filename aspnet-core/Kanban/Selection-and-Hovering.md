@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Selection and Hovering | Kanban | ASP.NET Core | Syncfusion
-description: Selection and Hovering
+title: Selection and Hovering in ASP.NET Core Kanban | Syncfusion
+description: Selection and Hovering with Introduction of aspnet-core kanban control and steps to configure the Syncfusion components in an ASP.NET Core application.
 documentation: ug
 control: Kanban
 platform: aspnet-core
@@ -132,4 +132,4 @@ The following code example describes the above behavior.
 
 The following output is displayed as a result of the above code example.
 
-![](Selection_images/selection_img1.png)
+![ASP.NET Core Kanban Selection Image1](Selection_images/selection_img1.png)

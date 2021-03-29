@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Advanced Filtering | Sorting | ASP.NET Core | Syncfusion
+title: Advanced Filtering in ASP.NET Core PivotClient | Syncfusion
 description: This document illustrates that how to define advance filtering and sorting with respective to the modes in ASP.NET Core PivotClient control
 platform: aspnet-core
 control: PivotClient

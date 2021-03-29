@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data presentation with Spreadsheet for Syncfusion ASP.NET Core
+title: Data Presentation in ASP.NET Core Spreadsheet | Syncfusion
 description: How to perform the proper representation of data with Syncfusion Essential ASP.NET Core Spreadsheet widget.
 platform: aspnet-core
 control: Spreadsheet

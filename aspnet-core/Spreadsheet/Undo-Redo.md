@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Undo Redo in ASP.NET Core Spreadsheet widget | Syncfusion
+title: Undo Redo in ASP.NET Core Spreadsheet Control | Syncfusion
 description: You can learn about undo redo support in Syncfusion ASP.NET Core Spreadsheet control and more details.
 platform: aspnet-core
 control: Spreadsheet

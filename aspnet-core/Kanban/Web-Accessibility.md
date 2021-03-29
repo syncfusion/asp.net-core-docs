@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Web Accessibility | Kanban | ASP.NET Core | Syncfusion
-description: Web Accessibility
+title: Web Accessibility in ASP.NET Core Kanban control | Syncfusion
+description: Web Accessibility with Introduction of aspnet-core kanban control and steps to configure the Syncfusion components in an ASP.NET Core application.
 documentation: ug
 control: Kanban
 platform: aspnet-core
 ---
 
-# Web Accessibility
+# Web Accessibility for ASP.NET Core kanban Control
 
 ## Keyboard Navigation
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Label in ASP.NET Core SunburstChart widget | Syncfusion
+title: Data Label in EJ 1 ASP.NET Core SunburstChart | Syncfusion
 description: You can learn about data label support in Syncfusion ASP.NET Core SunburstChart control and more details.
 platform: aspnet-core
 control: SunburstChart

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 3D-Visualization | PivotChart | ASP.NET Core | Syncfusion
+title: 3D Visualization in ASP.NET Core PivotChart | Syncfusion
 description: This document illustrates that how to define 3d visualization and its types in ASP.NET Core PivotChart control
 platform: aspnet-core
 control: PivotChart
 documentation: ug
 ---
 
-# 3D visualization
+# 3D visualization for ASP.NET Core PivotChart Control
 
 The pivot chart control allows you to view the data in a 3D view. Following are the chart types that are supported:
 

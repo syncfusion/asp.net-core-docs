@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open and Save in ASP.NET Core Spreadsheet widget | Syncfusion
+title: Open and Save in ASP.NET Core Spreadsheet | Syncfusion
 description: You can learn about open and save support in Syncfusion ASP.NET Core Spreadsheet control and more details.
 platform: aspnet-core
 control: Spreadsheet
