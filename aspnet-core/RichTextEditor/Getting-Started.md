@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Getting-Started
-description: getting started
+title: Getting Started with ASP.NET Core RichTextEditor control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core RichTextEditor control, its elements, and more.
 platform: aspnet-core
 control: RichTextEditor
 documentation: ug
 ---
-# Getting Started
+# Getting Started with ASP.NET Core RichTextEditor
 
 This section explains the step-by-step instructions to create RichTextEditor in an ASP.NET Core application.
 
 ## Create your first RichTextEditor in ASP.NET Core.
 
-1.  Create Syncfusion ASP.NET Core application. You can refer [ASP.NET Core Getting Started](https://help.syncfusion.com/aspnet-core/getting-started) documentation to initially configure the common specifications.
+1.  Create Syncfusion ASP.NET Core application. You can refer [ASP.NET Core Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) documentation to initially configure the common specifications.
 
 2.Add RichTextEditor control by using the below code.
 
@@ -76,7 +76,7 @@ You can configure the toolbar with the tools as your application requires.
 
 	{% endhighlight %}
 	
-![](Getting-Started-images/Toolbar.png)
+![Getting-Started_images](Getting-Started-images/Toolbar.png)
 
 
 ## Setting and Getting Content

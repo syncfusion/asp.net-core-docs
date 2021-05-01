@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Getting started | Tooltip | ASP.NET Core | Syncfusion
-description: How to create the Tooltip
+title: Getting Started with ASP.NET Core Tooltip control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core Tooltip control, its elements, and more.
 platform: aspnet-core
 control: Tooltip
 documentation: ug
 keywords : Dotnetcore Tooltip,ASP Dotnet Core Tooltip, core Tooltip,aspnetcore Tooltip widget,Dotnetcore Tooltip Appearance,Dotnetcore Tooltip Dimensions
 ---
-# Getting started
+# Getting started with ASP.NET Core Tooltip
 
 ## Create a Tooltip
 
@@ -15,7 +15,7 @@ Using the following steps, you can create a Tooltip control. The basic rendering
 
 
 
-1. You can create a Core Project and add necessary assembly and script with the help of the given [Dotnet Core-Getting Started](https://help.syncfusion.com/aspnet-core/getting-started) Documentation.
+1. You can create a Core Project and add necessary assembly and script with the help of the given [Dotnet Core-Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) Documentation.
 
 
 
@@ -83,7 +83,7 @@ Apply the following style sheet
     
 {% endhighlight %}
 
-![](Getteing-Started_images/Getteing-Started_img1.jpeg)
+![Getting-Started_images1](Getteing-Started_images/Getteing-Started_img1.jpeg)
 
 ## Setting Dimensions
 
@@ -174,5 +174,5 @@ Apply the following styles to show the Tooltip.
     
 {% endhighlight %}
 
-![](Getteing-Started_images/Getteing-Started_img2.jpeg)
+![Getting-Started_images2](Getteing-Started_images/Getteing-Started_img2.jpeg)
 

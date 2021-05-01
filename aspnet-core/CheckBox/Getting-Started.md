@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Getting Started | Checkbox | ASP.NET Core | Syncfusion
-description: getting started
+title: Getting Started with ASP.NET Core CheckBox control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core CheckBox control, its elements, and more.
 platform: aspnet-core
 control: CheckBox
 documentation: ug
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core CheckBox
 
 This section explains briefly about how to create a Checkbox in your application with ASP.NET Core.
 
@@ -15,7 +15,7 @@ This section explains briefly about how to create a Checkbox in your application
 
 Essential ASP.NET Core Checkbox provides support to multiple selections within your web page, and allows you to select options from the list. Refer the following guidelines to create multiple or single selection List Receiving App using Checkbox that helps you to get the value of checked Checkbox using the button. The following screenshot illustrates the functionality of Checkbox with button action.
 
-![](Getting-Started_images/Getting-Started_img1.png)
+![Getting-Started_images1](Getting-Started_images/Getting-Started_img1.png)
 
 Checkboxes Control
 {:.caption}
@@ -26,7 +26,7 @@ In the above screenshot, you can select hobbies, interest list and social networ
 
 ASP.NET Core Checkbox widget has built-in features like multiple selections. You can easily create the Checkbox widget using simple Tag helper `<ej-check-box />` as follows.
 
-1. Create a .NetCore Project with the help of the given [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/getting-started) documentation.
+1. Create a .NetCore Project with the help of the given [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) documentation.
 2. Add the following code to the corresponding view page to render Checkbox.
 
 
@@ -263,7 +263,7 @@ N> To render the CheckBox Control you can use either Razor or Tag helper code as
 
 
 
-![](Getting-Started_images/Getting-Started_img2.png)
+![Getting-Started_images2](Getting-Started_images/Getting-Started_img2.png)
 
 Checkbox Creation
 {:.caption}
@@ -347,7 +347,7 @@ Run the above code to render the following output.
 
 
 
-![](Getting-Started_images/Getting-Started_img3.png)
+![Getting-Started_images3](Getting-Started_images/Getting-Started_img3.png)
 
 Tri-state Checkbox Creation
 {:.caption}
@@ -459,7 +459,7 @@ Execute the above code example to render the following output.
 
 
 
-![](Getting-Started_images/Getting-Started_img4.png)
+![Getting-Started_images4](Getting-Started_images/Getting-Started_img4.png)
 
 Receive hobbies and interest
 {:.caption}
@@ -633,7 +633,7 @@ Execute the above code to render the following output.
 
 
 
-![](Getting-Started_images/Getting-Started_img5.png)
+![Getting-Started_images5](Getting-Started_images/Getting-Started_img5.png)
 
 Receive Media player
 {:.caption}

@@ -1,13 +1,13 @@
 ---
-title: Getting Started for Syncfusion Essential ASP.NET Core Spreadsheet
-description: How to create a Spreadsheet with data source, apply format and export it as excel file.
+title: Getting Started with ASP.NET Core Spreadsheet control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core Spreadsheet control, its elements, and more.
 platform: aspnet-core
 control: Spreadsheet
 documentation: UG
 keywords: 
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core Spreadsheet
 
 This section explains briefly about how to create Spreadsheet in your ASP.NET core application  and also how to populate the Spreadsheet with data, formats and how to export Spreadsheet data as excel file.
 
@@ -15,7 +15,7 @@ This section explains briefly about how to create Spreadsheet in your ASP.NET co
 
 The following steps explains how to create spreadsheet,
 
-1. Create Syncfusion ASP.NET Core application. You can refer [ASP.NET core Getting started documentation](https://help.syncfusion.com/aspnet-core/getting-started) to create new project and add necessary packages and script files.  
+1. Create Syncfusion ASP.NET Core application. You can refer [ASP.NET core Getting started documentation](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) to create new project and add necessary packages and script files.  
 2. Add a Spreadsheet control in view page. Spreadsheet is rendered with default height and width. You can also customize Spreadsheet dimension by setting `height` and `width` property in `e-scroll-settings`. 
 
 {% highlight cshtml %}

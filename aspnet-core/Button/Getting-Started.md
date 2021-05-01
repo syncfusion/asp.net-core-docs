@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Getting Started | Button | ASP.NET Core | Syncfusion
-description: getting started
+title: Getting Started with ASP.NET Core Button control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core Button control, its elements, and more.
 platform: aspnet-core
 control: Button
 documentation: ug
 keywords : Dotnetcore Button, ASP Dotnet Core Button, core Button, aspnetcore Button widget, Dotnetcore Button Appearance
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core Button
 
 This section explains you briefly on how to create a Button in your application with ASP.NET Core.
 
@@ -18,7 +18,7 @@ Essential ASP.NET Core Button provides support to display a Button control withi
 
 The following screenshot illustrates the functionality of Button in Multimedia player control.
 
-![](Getting-Started_images/Getting-Started_img1.png)
+![Getting-Started_images1](Getting-Started_images/Getting-Started_img1.png)
 Multimedia Player
 {:.caption}
 
@@ -26,7 +26,7 @@ Multimedia Player
 
 Essential ASP.NET Core Button control contains built-in features like Click and different display option. You can easily create the Button control by using Tag helper as follows.
 
-1. You can create a .NetCore Project with the help of the given [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/getting-started) documentation.
+1. You can create a .NetCore Project with the help of the given [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) documentation.
 2. Add the following code example to the corresponding view page to render Button.
 
 {% highlight html %}
@@ -258,7 +258,7 @@ N> To render the Button Control you can use either Razor or Tag helper code as g
 
 4. The following screenshot displays Multimedia player control.
 
-![](Getting-Started_images/Getting-Started_img1.png)
+![Getting-Started_images1](Getting-Started_images/Getting-Started_img1.png)
 
 Multimedia Player Control
 {:.caption}
@@ -412,13 +412,13 @@ In this section, you can learn how to create a Microsoft Office Ribbon used to c
 
 
 
-![](Getting-Started_images/Getting-Started_img2.png)
+![Getting-Started_images2](Getting-Started_images/Getting-Started_img2.png)
 
 Office Ribbon before  applying the styles
 {:.caption}
 
 
-![](Getting-Started_images/Getting-Started_img3.png)
+![Getting-Started_images3](Getting-Started_images/Getting-Started_img3.png)
 
 Office Ribbon after applying the styles
 {:.caption}

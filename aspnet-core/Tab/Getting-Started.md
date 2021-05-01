@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Getting-Started | Tab  | ASP.NET Core | Syncfusion
-description: How to create the Tab
+title: Getting Started with ASP.NET Core Tab control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core Tab control, its elements, and more.
 platform: aspnet-core
 control: Tab
 documentation: ug
 ---
 
-# Getting Started 
+# Getting Started with ASP.NET Core Tab
 
 This section explains how to create a tab control in your application with ASP.NET Core.
 
@@ -15,7 +15,7 @@ This section explains how to create a tab control in your application with ASP.N
 
 The ASP.NET Core tab control is an interface that displays the content in multiple sections. A tab panel consists of HeaderText as well as a ContentTemplate. This is very useful when dashboards have limited space. The following screenshot shows how to customize the tab to display Hotel menu items,  rate details, and the ingredients on demand.
 
-![](Getting-Started_images/Getting-Started_img1.png)
+![Getting-Started_images1](Getting-Started_images/Getting-Started_img1.png)
 
 Tab control with Hotel Menu items
 {:.caption}
@@ -26,7 +26,7 @@ The ASP.NET Core tab widget basically builds a dynamic, interactive, and menu-dr
 
 To create a tab control:
 
-1. Create a core project, and add the required assemblies and script with the help of [Dotnet Core-Getting Started](https://help.syncfusion.com/aspnet-core/getting-started) documentation.
+1. Create a core project, and add the required assemblies and script with the help of [Dotnet Core-Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) documentation.
 2.Then, add the following code sample to the corresponding view page for tab rendering..
   
 {% highlight CSHTML %}
@@ -71,7 +71,7 @@ N> To render the tab control, use either Razor or Tag helper code as given in th
  
 The following output will be displayed.
 
-![](Getting-Started_images/Getting-Started_img2.png)' 
+![Getting-Started_images2](Getting-Started_images/Getting-Started_img2.png)' 
 
 Tab control with Header
 
@@ -203,7 +203,7 @@ data.Add().ID("sandwich").Text("Sandwich Type").ContentTemplate(@<div></div>);
 
 The following screenshot is the output for the given code example.
 
-![](Getting-Started_images/Getting-Started_img3.png)
+![Getting-Started_images3](Getting-Started_images/Getting-Started_img3.png)
 
 ### Sub tab with content
 
@@ -334,7 +334,7 @@ The following code example is used to position images and content.
 
 The following screenshot shows the first tab of the sub tab control.
 
-![](Getting-Started_images/Getting-Started_img4.png)
+![Getting-Started_images4](Getting-Started_images/Getting-Started_img4.png)
 
 ### Orientation change
 
@@ -445,7 +445,7 @@ The following code section renders the sub tab element in the vertical orientati
 
 The following screenshot is the output of previous steps.
 
-![](Getting-Started_images/Getting-Started_img5.png)
+![Getting-Started_images5](Getting-Started_images/Getting-Started_img5.png)
 
 ### Configure contents to remaining tab items
 
@@ -764,5 +764,5 @@ Apply the following styles to the tab.
 
 The following screenshot shows the second tab content in tab and the final hotel menu with rating, description, and ingredients of the item in the tab interface.
 
-![](Getting-Started_images/Getting-Started_img6.png)
+![Getting-Started_images6](Getting-Started_images/Getting-Started_img6.png)
 

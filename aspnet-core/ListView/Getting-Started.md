@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Getting-Started
-description: getting started
+title: Getting Started with ASP.NET Core ListView control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core ListView control, its elements, and more.
 platform: aspnet-core
 control: ListView
 documentation: ug
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core ListView
 
 This control allows you to select an item from a list-like interface and provides the infrastructure to display a set of data items in different layouts or views. It also has ajax loading support, from this you can load data from the cache when once the initial data loaded successfully. This section explains briefly on how to create a ListView control in your ASP.NET Core application.
  
 ## Create a simple ListView
 
-1.	Refer the [Getting Started]( https://help.syncfusion.com/aspnet-core/getting-started ) page of the Introduction part to know more about the basic system requirements and the steps to configure the Syncfusion components in an ASP.NET Core application.
+1.	Refer the [Getting Started]( https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0 ) page of the Introduction part to know more about the basic system requirements and the steps to configure the Syncfusion components in an ASP.NET Core application.
 2.	Add the following code example to the corresponding view page for ListView rendering.
 
 The following steps explain local data binding to an ListView.
@@ -70,7 +70,7 @@ In the View page, add Listview helper and map the Local data list to correspondi
             
 Run the above code then you will get output as follows.
         
-![](Getting-Started_Images/default.png)
+![Getting-Started_images](Getting-Started_Images/default.png)
          
  ## Header support
 
@@ -87,5 +87,5 @@ You can add a header for ListView using show-header property. Refer the followin
  
  Run the above code and you will get the below output.
  
- ![](Getting-Started_Images/title.png)
+ ![Getting-Started_images](Getting-Started_Images/title.png)
  

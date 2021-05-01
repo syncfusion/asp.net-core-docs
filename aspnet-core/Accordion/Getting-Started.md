@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Getting Started | Accordion  | ASP.NET Core | Syncfusion
-description: getting started
+title: Getting Started with ASP.NET Core Accordion control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core Accordion control, its elements, and more.
 platform: aspnet-core
 control: Accordion 
 documentation: ug
 keywords: ejAccordion, accordion, ASP.NET Core Accordion
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core Accordion
 
 This section explains briefly about how to create an Accordion in your ASP.NET Core application.
 
@@ -18,7 +18,7 @@ Accordion control allows you to provide multiple panes and display them one/more
 
 ## Create a Simple Accordion
 
-ASP.NET Core Accordion basically renders using a div element. You can refer [ASP.NET Core Getting Started](https://help.syncfusion.com/aspnet-core/getting-started) documentation to initially configure the common specifications.
+ASP.NET Core Accordion basically renders using a div element. You can refer [ASP.NET Core Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) documentation to initially configure the common specifications.
 
 {% highlight CSHTML %}
 
@@ -83,7 +83,7 @@ N> To render the Accordion Control you can use either Razor or Tag helper code a
 
 Execute the above code example to display the Accordion control with simple control list.
 
-![](Getting-Started_images/Getting-Started_img3.png)
+![Getting-Started_images3](Getting-Started_images/Getting-Started_img3.png)
 
 You can customize the Accordion control using various properties. The Accordion control properties and its default values are described in the following section.
 
@@ -164,7 +164,7 @@ You can also open all the panels during initialization using the SelectedItems p
 
 Accordion control with EnableMultipleOpen property is illustrated in the following screenshot.
 
-![](Getting-Started_images/Getting-Started_img2.png)
+![Getting-Started_images2](Getting-Started_images/Getting-Started_img2.png)
 
 
 ## Set Rounded corner
@@ -308,5 +308,5 @@ You can set the Up/Down arrow icon to Accordion header, by adding e-arrowheadup 
 
 The following screenshot illustrates the customization of SelectedHeader and Header of the Accordion control.
 
-![](Getting-Started_images/Getting-Started_img1.png)
+![Getting-Started_images1](Getting-Started_images/Getting-Started_img1.png)
 

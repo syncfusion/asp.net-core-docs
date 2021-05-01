@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Getting Started | Scroller | ASP.NET Core | Syncfusion
-description: getting started
+title: Getting Started with ASP.NET Core Scroller control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core Scroller control, its elements, and more.
 platform: aspnet-core
 control: Scroller
 documentation: ug
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core Scroller
 
 This section explains briefly about how to create a Scroller in your ASP.NET Core application.
 
@@ -19,7 +19,7 @@ ASP.NET Core Scroller control allows you to slide document whose position corres
 
 Essential Studio ASP.NET Core Scroller control has a built-in feature to customize the resizing and changing the Scrollbar theme.
 
-1. You can create a .NetCore Project with the help of the given [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/getting-started) documentation.
+1. You can create a .NetCore Project with the help of the given [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) documentation.
 2. Add the following code example to the corresponding view page to render the Scroller. 
 
    ~~~ cshtml
@@ -79,4 +79,4 @@ Essential Studio ASP.NET Core Scroller control has a built-in feature to customi
 
 4. Execute the above example code to get the following output. 
 
-	![](Getting-Started_images/Getting-Started_img1.png)
+	![Getting-Started_images1](Getting-Started_images/Getting-Started_img1.png)

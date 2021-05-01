@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Getting Started | Slider | ASP.NET Core | Syncfusion
-description: getting started 
+title: Getting Started with ASP.NET Core Slider control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core Slider control, its elements, and more.
 platform: aspnet-core
 control: Slider
 documentation: ug
 ---
 
-# Getting Started 
+# Getting Started with ASP.NET Core Slider
 
 This section explains briefly about how to create a Slider in your ASP.NET Core application.
 
@@ -17,7 +17,7 @@ ASP.NET Core Slider provides support to display a Slider within the web page. Th
 
 The following screenshot illustrates the functionality of Slider control. You can select a mobile model in the dropdown to purchase it at any rate specified in the Mobile RateSlider and you can also specify the number of mobiles you need by selecting the Mobile CountSlider. Simultaneously, you can observe the change in mobile rate and count using Sliders.
 
-![](Getting-Started_images/Getting-Started_img1.png)
+![Getting-Started_images1](Getting-Started_images/Getting-Started_img1.png)
 
 
 
@@ -27,7 +27,7 @@ ASP.NET Core Slider control allows you to switch between different ranges of inp
 
 1. Create an ASP.NET Core Project and add Syncfusion assembly packages, scripts, and styles to it.
 
-   Refer [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/getting-started)
+   Refer [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0)
 
 2. Add the following code example for Slider to the corresponding view page.
 
@@ -201,7 +201,7 @@ ASP.NET Core Slider control allows you to switch between different ranges of inp
 
 5. The following screenshot displays the final output in Slider creation.
 
-![](Getting-Started_images/Getting-Started_img2.png)
+![Getting-Started_images2](Getting-Started_images/Getting-Started_img2.png)
 
 
 
@@ -404,7 +404,7 @@ The following screenshot displays the calculated EMI amount using Slider.
 
 
 
-![](Getting-Started_images/Getting-Started_img3.png)
+![Getting-Started_images3](Getting-Started_images/Getting-Started_img3.png)
 
 
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Getting-Started | UploadBox  | ASP.NET Core | Syncfusion
-description: How to create the UploadBox
+title: Getting Started with ASP.NET Core UploadBox control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core UploadBox control, its elements, and more.
 platform: aspnet-core
 control: UploadBox
 documentation: ug
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core UploadBox
 
 This section explains about how to create an UploadBox in ASP.NET Core application .
 
@@ -17,15 +17,15 @@ The ASP.NET Core UploadBox supports upload of files or photos to your web page. 
 
 You can upload a resume allowing .png and .docx file extensions, and avoid unsupported resume formats to be uploaded to the server.The following screenshot demonstrates the functionality of UploadBox with file extension.
 
-![](Getting-Started_images/Getting-Started_img1.png)
+![Getting-Started_images1](Getting-Started_images/Getting-Started_img1.png)
 
 ### Create UploadBox widgets
 
 The UploadBox basically renders built-in features like upload and delete. You can know the status of the file(whether it is completed or failed) and also  retry upload if it failed. 
 
-You can create a Core Project and add necessary assembly and script with the help of the given [Dotnet Core-Getting Started](https://help.syncfusion.com/aspnet-core/getting-started) Documentation.
+You can create a Core Project and add necessary assembly and script with the help of the given [Dotnet Core-Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) Documentation.
 
-![](Getting-Started_images/Getting-Started_img4.png)
+![Getting-Started_images4](Getting-Started_images/Getting-Started_img4.png)
 
 Add the following code example to the corresponding view page to render the UploadBox.
 
@@ -50,7 +50,7 @@ N> To render the Uploadbox Control, use either Razor or Tag helper code as given
 Using the code sample, execute the project to render the following output. The file is being uploaded. 
 
 
-![](Getting-Started_images/Getting-Started_img4.png)
+![Getting-Started_images4](Getting-Started_images/Getting-Started_img4.png)
 
 UploadBox after uploading
 {:.caption}
@@ -179,7 +179,7 @@ N> You can restrict one or more extension files by specifying file extension sep
 
 The following screenshot displays an **Uploadbox** control with the file extension that allows “.**docx**” and “**.png”** files. .
 
-![](Getting-Started_images/Getting-Started_img1.png) 
+![Getting-Started_images1](Getting-Started_images/Getting-Started_img1.png) 
 
 
 ### Upload Multiple Files
@@ -205,4 +205,4 @@ To upload multiple files in UploadBox control, click the Browse button and selec
 
 The following screenshot displays an upload box control with multiple files selected:
 
-![](Getting-Started_images/Getting-Started_img5.png)
+![Getting-Started_images5](Getting-Started_images/Getting-Started_img5.png)

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Getting Started | ToggleButton | ASP.NET Core | Syncfusion
-description: getting started
+title: Getting Started with ASP.NET Core ToggleButton control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core ToggleButton control, its elements, and more.
 platform: aspnet-core
 control: ToggleButton
 documentation: ug
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core ToggleButton
 
 This section explains briefly about how to create a ToggleButton in your ASP.NET Core application.
 
@@ -17,12 +17,12 @@ The Toggle Button control displays both text and images. The text displayed on t
 
 The following screenshot illustrates a Toggle Button control. 
 
-![](Getting-Started_images/Getting-Started_img1.png)
+![Getting-Started_images1](Getting-Started_images/Getting-Started_img1.png)
 
 Toggle Button in OFF state_ 
 {:.caption}
 
-![](Getting-Started_images/Getting-Started_img2.png)
+![Getting-Started_images2](Getting-Started_images/Getting-Started_img2.png)
 
 Toggle Button in ON state
 {:.caption}
@@ -34,7 +34,7 @@ Essential Studio ASP.NET Core Toggle Button control has a built-in feature to cu
 
 
 
-1. Create a .NetCore Project with the help of the given [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/getting-started) documentation.
+1. Create a .NetCore Project with the help of the given [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) documentation.
 2. Add the following code example to the corresponding view page to render the Toggle Button. 
 
    ~~~ cshtml
@@ -60,7 +60,7 @@ N> To render the ToggleButton Control you can use either Razor or Tag helper cod
 
 
 
-![](Getting-Started_images/Getting-Started_img3.png)
+![Getting-Started_images3](Getting-Started_images/Getting-Started_img3.png)
 
 
 

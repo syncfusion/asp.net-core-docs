@@ -1,14 +1,14 @@
 ---
-title: Getting Started
-description: This section illustrates how to create a new Word document from scratch
+title: Getting Started with ASP.NET Core DocIO control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core DocIO control, its elements, and more.
 platform: aspnet-core
 control: DocIO
 documentation: UG
 keywords: 
 ---
-# Getting Started
+# Getting Started with ASP.NET Core DocIO
 
-Refer the [Getting Started](https://help.syncfusion.com/aspnet-core/getting-started) page of the introduction part to know more about the basic [system requirements](https://help.syncfusion.com/aspnet-core/getting-started#system-requirements) and the steps to [configure Syncfusion File Format components](https://help.syncfusion.com/aspnet-core/getting-started#configure-syncfusion-file-format-components-in-aspnet-core-application) in an ASP.NET Core application. Ensure once whether all the following dependency packages are included within the project.json file as mentioned [here](https://help.syncfusion.com/aspnet-core/getting-started#configure-syncfusion-file-format-components-in-aspnet-core-application), to create and manipulate the Word documents using DocIO.
+Refer the [Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) page of the introduction part to know more about the basic [system requirements](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0#system-requirements) and the steps to [configure Syncfusion File Format components](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0#configure-syncfusion-file-format-components-in-aspnet-core-application) in an ASP.NET Core application. Ensure once whether all the following dependency packages are included within the project.json file as mentioned [here](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0#configure-syncfusion-file-format-components-in-aspnet-core-application), to create and manipulate the Word documents using DocIO.
 
 <table>
 <thead>
@@ -233,7 +233,7 @@ return File(memoryStream, "application/application/vnd.ms-word.document.12", "Sa
 
 The resultant Word document looks as follows.
 
-![](Getting-Started_images/Getting-Started_img1.jpeg)
+![Getting-Started_images1](Getting-Started_images/Getting-Started_img1.jpeg)
 
 ## Performing Mail Merge
 
@@ -252,7 +252,7 @@ Follow the given steps to perform simple Mail merge in a Word document.
 
 Let’s consider that you have a template Word document with merge fields as shown.
 
-![](Getting-Started_images/Getting-Started_img2.jpeg)
+![Getting-Started_images2](Getting-Started_images/Getting-Started_img2.jpeg)
 
 The `MailMerge` class provides various overloads for `Execute` method to perform Mail merge from various data source. The Mail merge operation replaces the matching merge fields with the respective data.
 
@@ -280,7 +280,7 @@ return File(memoryStream, "application/application/vnd.ms-word.document.12", "Sa
 
 The resultant Word document look as follows.
 
-![](Getting-Started_images/Getting-Started_img3.jpeg)
+![Getting-Started_images3](Getting-Started_images/Getting-Started_img3.jpeg)
 
 ### Simple Mail merge with Group
 
@@ -293,7 +293,7 @@ The region between these two merge fields get repeated for every record from the
 
 For example – let’s consider that you have a template document as shown.
 
-![](Getting-Started_images/Getting-Started_img4.jpeg)
+![Getting-Started_images4](Getting-Started_images/Getting-Started_img4.jpeg)
 
 Here, in this template, Employees is the group name and exact same name should be used while performing Mail merge through code. There are two special merge fields “TableStart:Employees” and “TableEnd:Employees”, to denote the start and end of the Mail merge group.
 
@@ -375,4 +375,4 @@ Country = country;
 
 The resultant document looks as follows.
 
-![](Getting-Started_images/Getting-Started_img5.jpeg)
+![Getting-Started_images5](Getting-Started_images/Getting-Started_img5.jpeg)

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Getting-Started
-description: getting started
+title: Getting Started with ASP.NET Core Tile control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core Tile control, its elements, and more.
 platform: aspnet-core
 control: Tile
 documentation: ug
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core Tile
 
 The Essential Studio for ASP.NET Core Web Tiles are simple, opaque rectangles or squares that are arrayed on the Start screen in a grid-like pattern and it can be either static or live. By Tap or Touch you can navigate to the corresponding linked page/url or whatever function you have configured.
 This section explains briefly you how to create a Tile control in your ASP.NET Core application.
@@ -16,7 +16,7 @@ This section explains briefly you how to create a Tile control in your ASP.NET C
 
 The following steps guide you to add group of Tiles for creating a home page like view that displays all the available applications.
 
-1.	Refer the [Getting Started]( https://help.syncfusion.com/aspnet-core/getting-started ) page of the Introduction part to know more about the basic system requirements and the steps to configure the Syncfusion components in an ASP.NET Core application.
+1.	Refer the [Getting Started]( https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0 ) page of the Introduction part to know more about the basic system requirements and the steps to configure the Syncfusion components in an ASP.NET Core application.
 2.	To add a Tile control, call Tile helper. You can specify the tile name, size and image URL as follows. Add the following code example to the corresponding view page.
 
     {% highlight cshtml %}
@@ -27,7 +27,7 @@ The following steps guide you to add group of Tiles for creating a home page lik
 
 3.	Run the above code and you will get below output.
 
-![](Getting-Started_Images/map.png)
+![Getting-Started_images](Getting-Started_Images/map.png)
 
 In this scenario, a home page is designed using tile for easy navigation. Therefore, you require many different sizes of tiles aligned in a grid-like manner. To align the tiles automatically, define the necessary tile elements inside the wrapper element that contains a **e-tile-column** class. You can define all columns elements under the wrapper element with **e-tile-group** class to make ‘n’ number of tiles as a grouped tile.
 Refer the following code example.
@@ -60,4 +60,4 @@ Refer the following code example.
 
  Now run your application you will get below output.
  
- ![](Getting-Started_Images/final.png)
+ ![Getting-Started_images](Getting-Started_Images/final.png)

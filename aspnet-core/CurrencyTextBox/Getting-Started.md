@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Getting Started | CurrencyTextBox  | ASP.NET Core | Syncfusion
-description: getting started
+title: Getting Started with ASP.NET Core CurrencyTextBox control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core CurrencyTextBox control, its elements, and more.
 platform: aspnet-core
 control: CurrencyTextBox
 documentation: ug
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core CurrencyTextBox
 
 This section explains briefly about how to create a CurrencyTextBox in ASP.NET Core application.
 
@@ -15,7 +15,7 @@ This section explains briefly about how to create a CurrencyTextBox in ASP.NET C
 
 From the following steps you can learn how to create and use CurrencyTextBox in your application. Here we have showcased, a small Electric bill calculator application using ASP.NET Core Editors widgets.The Essential ASP.NET Core Editors control includes Numeric, Percentage, Currency and MaskEdit textbox controls. This will guide you to use the wide range of Editors functionalities to complete this application. 
 
-![](Getting-Started_images/Getting-Started_img1.png)
+![Getting-Started_images1](Getting-Started_images/Getting-Started_img1.png)
 
 Electricity Bill Calculator
 {:.caption}
@@ -24,7 +24,7 @@ Electricity Bill Calculator
 
 ASP.NET Core Editors renders built-in features like keyboard navigation, min and max range and flexible API’s. 
 
-1. Create an ASP.NET Core Project and add Syncfusion assembly packages and Scripts. Refer [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/getting-started). 
+1. Create an ASP.NET Core Project and add Syncfusion assembly packages and Scripts. Refer [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0). 
 2. Add necessary Tag helper elements to render the Editor components.
 
    ~~~ cshtml
@@ -226,7 +226,7 @@ Razor code to render CurrencyTextBox
 
 4. Execute the code to render Editors as follows
 
-![](Getting-Started_images/Getting-Started_img2.png)
+![Getting-Started_images2](Getting-Started_images/Getting-Started_img2.png)
 
 CurrencyTextBox with watermark text
 {:.caption}
@@ -328,7 +328,7 @@ You can set the “MinValue”,“MaxValue” and “Value” in Currency, Perce
 
 The following screenshot illustrates the output of the above code examples. 
 
-![](Getting-Started_images/Getting-Started_img3.png)
+![Getting-Started_images3](Getting-Started_images/Getting-Started_img3.png)
 
 CurrencyTextBox with Min/Max Value ranges
 {:.caption}
@@ -488,7 +488,7 @@ function calculateBill() {
 
 Run the above code sample, fill the required Textbox fields and click the Calculate button. The values are displayed and an alert message is shown. The following screen shot illustrates the final output of the Electricity bill calculator. 
 
-![](Getting-Started_images/Getting-Started_img4.png)
+![Getting-Started_images4](Getting-Started_images/Getting-Started_img4.png)
 
 Electricity bill calculator with alert
 {:.caption}

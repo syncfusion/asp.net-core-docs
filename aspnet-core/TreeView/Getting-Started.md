@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Getting Started with TreeView | TreeView | ASP.NET Core | Syncfusion
-description:  To get start with TreeView by adding references
+title: Getting Started with ASP.NET Core TreeView control | Syncfusion
+description:  Learn here about getting started with Syncfusion Essential Studio ASP.NET Core TreeView control, its elements, and more.
 platform: aspnet-core
 control: TreeView
 documentation: ug
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core TreeView
 
 This section briefly explains how to create a tree view in the ASP.NET Core platform.
 
 ## Create your first tree view in ASP.NET Core
 
-Create an ASP.NET Core project and add the Syncfusion assembly packages, CSS, and scripts with the help of the given [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/getting-started) documentation. After the project creation, create a tree view in the following ways.
+Create an ASP.NET Core project and add the Syncfusion assembly packages, CSS, and scripts with the help of the given [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) documentation. After the project creation, create a tree view in the following ways.
 
 ## Tree view using helper element
 
@@ -52,7 +52,7 @@ In the view page, add the tree view helper as shown in the following. It will re
   {% endhighlight %}
 
 By running the previous code, you will get output like the following image:
-![](Getting_started_images/getting_started_img1.png)
+![Getting-Started_images1](Getting_started_images/getting_started_img1.png)
 
 ## Render tree view using razor syntax
 
@@ -136,7 +136,7 @@ In the view page, add the tree view as shown in the following. It will render th
 {% endhighlight %}
 
 By running the previous code, you will get output like the following image:
-![](Getting_started_images/getting_started_img2.png)
+![Getting-Started_images2](Getting_started_images/getting_started_img2.png)
 
 ## Tree view using data binding
 
@@ -203,7 +203,7 @@ In the controller page, create a data list that contains the details about the t
   {% endhighlight %}
     
 By running the previous code, you will get results like the following image:
-![](Getting_started_images/getting_started_img3.png)
+![Getting-Started_images3](Getting_started_images/getting_started_img3.png)
 
 
 ## Create instance for tree view

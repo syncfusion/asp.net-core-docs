@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Getting Started
-description: This section explains creating a simple PDF document with basic elements
+title: Getting Started with ASP.NET Core PDF control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core PDF control, its elements, and more.
 platform: aspnet-core
 control: PDF
 documentation: UG
 ---
-# Getting Started
-Refer the [Getting Started](https://help.syncfusion.com/aspnet-core/getting-started) page of the introduction part to know more about the basic [system requirements](https://help.syncfusion.com/aspnet-core/getting-started#system-requirements) and the steps to [configure Syncfusion File Format components](https://help.syncfusion.com/aspnet-core/getting-started#configure-syncfusion-file-format-components-in-aspnet-core-application) in an ASP.NET Core application. Ensure once whether all the following dependency packages are included within the project.json file as mentioned [here](https://help.syncfusion.com/aspnet-core/getting-started#configure-syncfusion-file-format-components-in-aspnet-core-application), to create and manipulate the PDF documents using Essential PDF.
+# Getting Started with ASP.NET Core PDF
+Refer the [Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) page of the introduction part to know more about the basic [system requirements](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0#system-requirements) and the steps to [configure Syncfusion File Format components](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0#configure-syncfusion-file-format-components-in-aspnet-core-application) in an ASP.NET Core application. Ensure once whether all the following dependency packages are included within the project.json file as mentioned [here](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0#configure-syncfusion-file-format-components-in-aspnet-core-application), to create and manipulate the PDF documents using Essential PDF.
 To create a PDF document the following assemblies have to be added as reference to the project.
 
 <table>

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Getting-Started
-description: getting started
+title: Getting Started with ASP.NET Core DropDownList control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core DropDownList control, its elements, and more.
 platform: aspnet-core
 control: DropDownList
 documentation: ug
 ---
-# Getting Started
+# Getting Started with ASP.NET Core DropDownList
 
 
 ## Create your first DropDownList in ASP.NET Core 
 
-1.Create an ASP.NET Core Project as given in [`ASP.NET Core`](https://help.syncfusion.com/aspnet-core/getting-started) documentation
+1.Create an ASP.NET Core Project as given in [`ASP.NET Core`](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) documentation
 
 
 2.Add DropDownList control by using the below code.
@@ -38,7 +38,7 @@ N> To render the DropDownList Control you can use either Razor or Tag helper cod
 
 3.Execute the code and get the DropDownList control rendered as below
 
-![](Getting-Started-images/Getting-Started1.jpeg)
+![Getting-Started_images1](Getting-Started-images/Getting-Started1.jpeg)
 
 ## Populating data
 
@@ -89,7 +89,7 @@ The DropDownList can be bounded to any local list data and remote data services.
 
 Execute the code and to get a DropDownList control with data bound from controller
 
-![](Getting-Started-images/Getting-Started2.jpeg)
+![Getting-Started_images2](Getting-Started-images/Getting-Started2.jpeg)
 
 ## Setting Dimensions
 

@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Getting-Started
-description: getting started
+title: Getting Started with ASP.NET Core ProgressBar control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core ProgressBar control, its elements, and more.
 platform: aspnet-core
 control: ProgressBar
 documentation: ug
 keywords: ejProgressBar, ProgressBar, ProgressBar widget, js ProgressBar
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core ProgressBar
 
 This section briefly describes how to create a Progress Bar control using ASP.NET Core and learn its features.
 
@@ -18,7 +18,7 @@ ASP.NET Core Progress Bar control provides support to display a ProgressBar that
 
 The following screenshot illustrates the functionality of a Progress Bar and displays the final result of the Password Strength Validation for your password using Progress Bar.
 
-![](Getting-Started-images/Getting-Started0.jpg)
+![Getting-Started_images0](Getting-Started-images/Getting-Started0.jpg)
 
 Progress Bar
 {:.caption}
@@ -27,7 +27,7 @@ Progress Bar
 
 ASP.NET Core Progress Bar control indicates the current progress of an operation like uploading a document through a simple interface. You can easily create the Progress bar control using simple Razor code or ej-tag helper  as follows.
 
-1.Create an ASP.NET Core Project as given in [`ASP.NET Core`](https://help.syncfusion.com/aspnet-core/getting-started) documentation
+1.Create an ASP.NET Core Project as given in [`ASP.NET Core`](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) documentation
 
 2.Add the following code to the corresponding view page to render Progress Bar.
 
@@ -106,7 +106,7 @@ N> To render the ProgressBar Control you can use either Razor or Tag helper code
 
 4.Execute the above code to render the following output. 
 
-![](Getting-Started-images/Getting-Started1.jpg)
+![Getting-Started_images1](Getting-Started-images/Getting-Started1.jpg)
 
 
 ### Find the Strength of the Password
@@ -201,12 +201,12 @@ In this scenario, the advancement of the Progress Bar is changed according to th
 
 The following screenshots displays a Progress Bar control for the above scenario.
 
-![](Getting-Started-images/Getting-Started0.jpg)
+![Getting-Started_images0](Getting-Started-images/Getting-Started0.jpg)
 
 
 
-![](Getting-Started-images/Getting-Started2.jpg)
+![Getting-Started_images2](Getting-Started-images/Getting-Started2.jpg)
 
 
 
-![](Getting-Started-images/Getting-Started3.jpg)
+![Getting-Started_images3](Getting-Started-images/Getting-Started3.jpg)

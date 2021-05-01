@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Getting Started | RadioButton | ASP.NET Core | Syncfusion
-description: getting started
+title: Getting Started with ASP.NET Core RadioButton control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core RadioButton control, its elements, and more.
 platform: aspnet-core
 control: RadioButton
 documentation: ug
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core RadioButton
 
 This section briefly describes you on how to create a QuizApp and RegistrationApp using ASP.NET Core RadioButton control and use the features available in it.
 
@@ -15,14 +15,14 @@ This section briefly describes you on how to create a QuizApp and RegistrationAp
 
 ASP.NET Core RadioButton provides support to display the RadioButton within your web page, and allows you to pick your choice. Using the following guidelines, you can customize RadioButton for a real-time QuizApp and RegistrationApp scenarios. This allows you to select the corresponding choice for each question.
 
-![](Getting-Started_images/Getting-Started_img1.png)
+![Getting-Started_images1](Getting-Started_images/Getting-Started_img1.png)
 
 
 ### Create your QuizApp
 
 Essential Studio ASP.NET Core RadioButton widget has a built-in feature to select a single option from the QuizApp. You can create the RadioButton widget using the following steps.
 
-1. Create a .NetCore Project with the help of the given [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/getting-started) documentation.
+1. Create a .NetCore Project with the help of the given [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) documentation.
 2. Add the following code example to the corresponding view page to render RadioButton.
 
 
@@ -369,13 +369,13 @@ Add the following code example in the index page.
  Execute the above code example to render the following output.
 
 
-![](Getting-Started_images/Getting-Started_img2.png)
+![Getting-Started_images2](Getting-Started_images/Getting-Started_img2.png)
 
 
 
 ### Create RegistrationApp
 
-![](Getting-Started_images/Getting-Started_img3.png)
+![Getting-Started_images3](Getting-Started_images/Getting-Started_img3.png)
 
 
 
@@ -752,9 +752,9 @@ Add the following code example in the index page.
 
 Execute the above code example to render the following outputs.
 
-![](Getting-Started_images/Getting-Started_img4.png)
+![Getting-Started_images4](Getting-Started_images/Getting-Started_img4.png)
 
-![](Getting-Started_images/Getting-Started_img5.png)
+![Getting-Started_images5](Getting-Started_images/Getting-Started_img5.png)
 
 The whole purpose of Radio Button is to enable you to make one selection, only one, from a list. When you want to make multiple selections, you do not require a Radio Button, you need to use a CheckBox.
 

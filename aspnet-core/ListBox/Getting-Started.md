@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Getting-Started
-description: getting started
+title: Getting Started with ASP.NET Core ListBox control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core ListBox control, its elements, and more.
 platform: aspnet-core
 control: ListBox
 documentation: ug
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core ListBox
 
 This section explains briefly on how to create a ListBox control in your ASP.NET Core application.
 
 ## Create your first ListBox
 
-1. Refer the [Getting Started](https://help.syncfusion.com/aspnet-core/getting-started) page of the Introduction part to know more about the basic system requirements and the steps to configure the Syncfusion components in an ASP.NET Core application.
+1. Refer the [Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) page of the Introduction part to know more about the basic system requirements and the steps to configure the Syncfusion components in an ASP.NET Core application.
 2. Create your first Listbox by using the below mentioned code.
 
     {% highlight cshtml %}
@@ -24,7 +24,7 @@ This section explains briefly on how to create a ListBox control in your ASP.NET
 
 3. After executed the above code you can get the following output.
 
-![](Getting-Started_Images/default.png)
+![Getting-Started_images](Getting-Started_Images/default.png)
 
 ## Data binding
 
@@ -94,7 +94,7 @@ In the View page, add Listbox helper and map the Local data list to correspondin
 
 Run this code and you can get output like this
 
-![](Getting-Started_Images/datasource.png)
+![Getting-Started_images](Getting-Started_Images/datasource.png)
 
 ## Selection
 
@@ -111,6 +111,6 @@ The ListBox control supports item selection in different way. In this example we
  
  Your output will be as given below.
 
-![](Getting-Started_Images/selectedIndex.png)
+![Getting-Started_images](Getting-Started_Images/selectedIndex.png)
  
  

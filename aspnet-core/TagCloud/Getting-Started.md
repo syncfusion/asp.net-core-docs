@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Getting-Started
-description: getting started
+title: Getting Started with ASP.NET Core TagCloud control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core TagCloud control, its elements, and more.
 platform: aspnet-core
 control: TagCloud
 documentation: ug
 keywords: ejTagCloud, TagCloud, TagCloud widget, js TagCloud
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core TagCloud
 
 This section explains briefly about how to create a TagCloud in your ASP.NET Core application.
 
@@ -16,7 +16,7 @@ This section explains briefly about how to create a TagCloud in your ASP.NET Cor
 
 ASP.NET Core TagCloud provides support to display a weighted list, where the weight of each item is reflected by the size of the item's text. TagCloud is rendered as a link and as you click it, you can drill into the selected category. Refer the following guidelines to create TagCloud scenario. This allows you to display a weighted list.
 
-![](Getting-Started-images/Getting-Started1.jpg)
+![Getting-Started_images1](Getting-Started-images/Getting-Started1.jpg)
 
 
 In the above screenshot, you can see the weighted list and a click on any item drills into the respective category.
@@ -25,7 +25,7 @@ In the above screenshot, you can see the weighted list and a click on any item d
 
 Essential Studio ASP.NET Core TagCloud widget has built-in features such as clicking on one of the sites in the TagCloud brings all relevant results only from the selected source. You can easily create the TagCloud widget element as follows.
 
-1.Create an ASP.NET Core Project as given in [`ASP.NET Core`](https://help.syncfusion.com/aspnet-core/getting-started) documentation
+1.Create an ASP.NET Core Project as given in [`ASP.NET Core`](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) documentation
 
 2.Add the following code to the corresponding view page to render TagCloud.
 
@@ -153,7 +153,7 @@ public ActionResult Index()
 
 {% endhighlight %}
 
-![](Getting-Started-images/Getting-Started1.jpg)
+![Getting-Started_images1](Getting-Started-images/Getting-Started1.jpg)
 
 ## Set an event to perform operation
 
@@ -281,4 +281,4 @@ You can perform the event operations like MouseOver, MouseOut and Click by addin
 
 When you move the mouse to latest technology (weighted) list, it is denoted in Alert box. You can execute the above code to render the following output. 
 
-![](Getting-Started-images/Getting-Started2.png)
+![Getting-Started_images2](Getting-Started-images/Getting-Started2.png)

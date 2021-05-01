@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Getting-Started of Menu control
-description: How to create a Menu and its other functionalitie
+title: Getting Started with ASP.NET Core Menu control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core Menu control, its elements, and more.
 platform: aspnet-core
 control: Menu
 documentation: ug
 keywords: ejMenu, Menu, Menu widget, js Menu
 ---
 
-# Getting Started 
+# Getting Started with ASP.NET Core Menu
 
 ## Create Syncfusion Menu in ASP.NET Core
 
@@ -18,7 +18,7 @@ From the following guideline, you can learn how to customize the Menu control fo
  
 ## Create your first Menu in ASP.NET Core
 
-Create Syncfusion ASP.NET Core application. You can refer [ASP.NET Core Getting Started](https://help.syncfusion.com/aspnet-core/getting-started) documentation to initially configure the common specifications.
+Create Syncfusion ASP.NET Core application. You can refer [ASP.NET Core Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) documentation to initially configure the common specifications.
 
 {% highlight CSHTML %}
 
@@ -89,7 +89,7 @@ Initialize the Menu element using datasource as follows.
 
 The following screenshot displays the resultant output Menu without sub menu item.
 
-![](Getting-Started_images/Getting-Started_img3.png) 
+![Getting-Started_images3](Getting-Started_images/Getting-Started_img3.png) 
 
 ## Initialize sub-level Menu items
 
@@ -170,7 +170,7 @@ The following code example explains the initialization of first level sub menu i
 
 Execute the above code example to render the following output Menu with sub menu item.
 
-![](Getting-Started_images/Getting-Started_img4.png)
+![Getting-Started_images4](Getting-Started_images/Getting-Started_img4.png)
 
 ## Define multiple level Menu items
 
@@ -259,4 +259,4 @@ The following code example explains the initialization of multiple level sub men
 
 The following screenshot is the resultant output Menu with multiple level sub menu item.
 
-![](Getting-Started_images/Getting-Started_img5.png) 
+![Getting-Started_images5](Getting-Started_images/Getting-Started_img5.png) 

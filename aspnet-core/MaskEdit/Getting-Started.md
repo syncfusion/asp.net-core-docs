@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Getting Started | MaskEdit | ASP.NET Core | Syncfusion
-description: getting started
+title: Getting Started with ASP.NET Core MaskEdit control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core MaskEdit control, its elements, and more.
 platform: aspnet-core
 control: MaskEdit
 documentation: ug
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core MaskEdit
 
 This section explains you briefly on how to create a MaskEdit control in your ASP.NET Core application.
 
@@ -19,7 +19,7 @@ ASP.NET Core MaskEdit control allows you to set the type and format of the input
 
 The following screenshot illustrates the functionality of a MaskEdit. Using MaskEdit control textbox, you can enter only the assigned text format and no other formats. The input mask prevents you from entering invalid characters into the control. In this application, MobileNumber textbox has a mask value.
 
-![](Getting-Started_images/Getting-Started_img1.png)
+![Getting-Started_images1](Getting-Started_images/Getting-Started_img1.png)
 
 MaskEdit
 {:.caption}
@@ -30,7 +30,7 @@ In the above screenshot, you can type only numbers and it does not allow text fo
 
 ASP.NET Core MaskEdit control renders built-in features like text masking, number masking and flexible APIs. You can easily create the MaskEdit control using simple HTML helper class as follows:
 
-1. Create an ASP.NET Core Project and add Syncfusion assembly packages, styles and scripts to it. Refer [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/getting-started)
+1. Create an ASP.NET Core Project and add Syncfusion assembly packages, styles and scripts to it. Refer [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0)
 2. Add the following code to the corresponding view page to render MaskEdit.
 
 
@@ -166,7 +166,7 @@ N>To render the MaskEdit Control you can use either Razor or Tag helper code as 
 
 Execute the above code example to render the following output.
 
-![](Getting-Started_images/Getting-Started_img1.png)
+![Getting-Started_images1](Getting-Started_images/Getting-Started_img1.png)
 
 MaskEdit
 {:.caption}
@@ -264,7 +264,7 @@ You can easily create the MaskEdit control using simple HTML helper class as fol
 
 1. Create a ASP.NET Core Project and add Syncfusion assembly packages and scripts to it. 
 
-   Refer [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/getting-started).
+   Refer [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0).
 
 2. Add the following code to the corresponding view page to render MaskEdit.
 
@@ -385,7 +385,7 @@ You can easily create the MaskEdit control using simple HTML helper class as fol
 
 4. Run the above code example to render the following output. 
 
-![](Getting-Started_images/Getting-Started_img3.png)
+![Getting-Started_images3](Getting-Started_images/Getting-Started_img3.png)
 
 Product Key
 {:.caption}

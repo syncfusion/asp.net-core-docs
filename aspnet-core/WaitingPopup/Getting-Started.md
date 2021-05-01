@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Getting-Started | WaitingPopup | ASP.NET Core | Syncfusion
-description: How to create the WaitingPopup
+title: Getting Started with ASP.NET Core WaitingPopup control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core WaitingPopup control, its elements, and more.
 platform: aspnet-core
 control: WaitingPopup
 documentation: ug
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core WaitingPopup
 
 This section explains briefly about how to create a WaitingPopup in your application with ASP.NET Core.
 
@@ -17,7 +17,7 @@ ASP.NET Core Waiting Popup provides support to display Waiting Popup within your
 
 
 
-![](Getting-Started_images/Getting-Started_img1.png)
+![Getting-Started_images1](Getting-Started_images/Getting-Started_img1.png)
 
 
 In the above screenshot, you can give the Username and Password. When you click the Login button, the Waiting Popup appears.  After loading, the alert box appears with a message “Signed in successfully”.
@@ -26,7 +26,7 @@ In the above screenshot, you can give the Username and Password. When you click 
 
 ASP.NET Core Waiting Popup widget has a built-in feature to block all other actions until the page is loaded. You can easily create the Waiting Popup control by using simple HTML Helper element as follows
 
-1. You can create a Core Project and add necessary assembly and script with the help of the given [Dotnet Core-Getting Started](https://help.syncfusion.com/aspnet-core/getting-started) Documentation.
+1. You can create a Core Project and add necessary assembly and script with the help of the given [Dotnet Core-Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) Documentation.
 
 ### Create Login Page
 
@@ -148,12 +148,12 @@ N> To render the WaitingPopup Control you can use either Razor or Tag helper cod
 
 4. The following screenshot displays the User login. 
 
-   ![](Getting-Started_images/Getting-Started_img2.png)
+   ![Getting-Started_images2](Getting-Started_images/Getting-Started_img2.png)
 
 5. The following screenshot shows the Waiting Popup
 
-   ![](Getting-Started_images/Getting-Started_img3.png)
+   ![Getting-Started_images3](Getting-Started_images/Getting-Started_img3.png)
 
 The following screenshot displays an alert box displayed with the message “Signed in successfully” after loading.
 
-![](Getting-Started_images/Getting-Started_img4.png)
+![Getting-Started_images4](Getting-Started_images/Getting-Started_img4.png)

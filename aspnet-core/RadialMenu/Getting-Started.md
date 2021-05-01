@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Getting-Started
-description: getting started
+title: Getting Started with ASP.NET Core RadialMenu control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core RadialMenu control, its elements, and more.
 platform: aspnet-core
 control: RadialMenu 
 documentation: ug
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core RadialMenu
 
 This section explains briefly about how to create a RadialMenu in ASP.NET Core application.
 
 ## Creating your first RadialMenu in ASP.NET Core application
 
-1.	Refer the [Getting Started]( https://help.syncfusion.com/aspnet-core/getting-started ) page of the Introduction part to know more about the basic system requirements and the steps to configure the Syncfusion components in an ASP.NET Core application.
+1.	Refer the [Getting Started]( https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0 ) page of the Introduction part to know more about the basic system requirements and the steps to configure the Syncfusion components in an ASP.NET Core application.
 
 2. Add the following code to render RadialMenu in your ASP.NET Core application. You can set the images for each item by giving the image url with the **image-url** attribute in the RadialMenuItems and text with Text attribute. Refer the following code example.Initialize Radial Menu control and set its target content as follows.
 
@@ -114,4 +114,4 @@ Run the above code and select any text inside the target. The settings icon is d
 
 
 
-![](getting-started_images\img.png)
+![Getting-Started_images](getting-started_images\img.png)

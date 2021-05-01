@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Getting-Started
-description: getting started
+title: Getting Started with ASP.NET Core Toolbar control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core Toolbar control, its elements, and more.
 platform: aspnet-core
 control: Toolbar
 documentation: ug
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core Toolbar
 
 This section explains how to create a Toolbar in your ASP.NET Core application. 
 
@@ -18,13 +18,13 @@ This section explains how to create a Toolbar in your ASP.NET Core application.
 Toolbar control displays a list of tools in a web page. It is used to customize Toolbar items of any functionality by using enriched client-side methods. This control consists of a collection of unordered lists, containing text and images in <div>.This section explains how to customize Toolbar control for a PDF Reader scenario.Here, the Toolbar consists of a title and text area like PDF Reader.
 
 
-![](Getting-Started-images/Getting-Started0.JPG)
+![Getting-Started_images0](Getting-Started-images/Getting-Started0.JPG)
 
 ### Create a Toolbar
 
 The basic rendering of ASP.NET Core Toolbar is achieved with default functionality.
 
-1.Create an ASP.NET Core Project as given in [`ASP.NET Core`](https://help.syncfusion.com/aspnet-core/getting-started) documentation
+1.Create an ASP.NET Core Project as given in [`ASP.NET Core`](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) documentation
 
 2.Then, add the mentioned code to the corresponding view page for Toolbar rendering.
 
@@ -50,7 +50,7 @@ The basic rendering of ASP.NET Core Toolbar is achieved with default functionali
 
 The following output is displayed.
 
-![](Getting-Started-images/Getting-Started1.png)
+![Getting-Started_images1](Getting-Started-images/Getting-Started1.png)
 
 Toolbar without Toolbar items
 {:.caption}
@@ -143,7 +143,7 @@ The toolbar consists of a list of items. To initialize the Toolbar items, use th
 
 Execute the code to render a Toolbar with a list of Toolbar items.
 
-![](Getting-Started-images/Getting-Started2.png)
+![Getting-Started_images2](Getting-Started-images/Getting-Started2.png)
 
 Toolbar with list of toolbar items
 {:.caption}
@@ -259,7 +259,7 @@ Add the following styles in the code table to display the Toolbar items as follo
 
 Execute the code to render Toolbar items with a separator.
 
-![](Getting-Started-images/Getting-Started3.png)
+![Getting-Started_images3](Getting-Started-images/Getting-Started3.png)
 
 ### Add Actions to Toolbar Items
 
@@ -397,7 +397,7 @@ You can apply the following styles with the previous styles to design the PDF he
 
 {% endhighlight  %}
 
-![](Getting-Started-images/Getting-Started0.JPG)
+![Getting-Started_images0](Getting-Started-images/Getting-Started0.JPG)
 
 PDF Reader Appearance
 {:.caption}

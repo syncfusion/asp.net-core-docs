@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Getting started with Syncfusion Essential Diagram for ASP.NET CORE Application.
-description: Getting started walk through to create your first Flow Diagram and Organizational Chart Diagram.
+title: Getting Started with ASP.NET Core Diagram control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core Diagram control, its elements, and more.
 platform: aspnet-core
 control: Diagram
 documentation: ug
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core Diagram
 
 This section explains briefly you on how to create a Diagram in your ASP.NET CORE Application. Getting started with your ASP.NET CORE Diagram is very easy.  You can start by creating a simple flow Chart.
 
@@ -15,7 +15,7 @@ This section explains briefly you on how to create a Diagram in your ASP.NET COR
 
 ### Initialize Diagram
 
-1\. Create an ASP.NET CORE Application and add necessary packages and Scripts by referring [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/getting-started) Documentation.
+1\. Create an ASP.NET CORE Application and add necessary packages and Scripts by referring [ASP.NET Core-Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) Documentation.
 
 2\. Add a placeholder `div` element to initialize diagram control
 
@@ -29,7 +29,7 @@ This section explains briefly you on how to create a Diagram in your ASP.NET COR
 
 3\. This creates an empty diagram
 
-![](/aspnet-core/Diagram/Getting-Started_images/Getting-Started_img1.png)
+![Getting-Started_images1](Getting-Started_images/Getting-Started_img1.png)
 
 ### Create and add Node
 
@@ -53,7 +53,7 @@ N> `Labels` property is an array, which indicates that more than one label can b
 
 Added node will be displayed in diagram as shown below.
 
-![](/aspnet-core/Diagram/Getting-Started_images/Getting-Started_img2.png)
+![Getting-Started_images2](Getting-Started_images/Getting-Started_img2.png)
 
 ### Connect nodes
 
@@ -89,7 +89,7 @@ Connect these two nodes by adding a `connector` into `Connectors` collection wit
 
 * `Connector` connects the two nodes as shown below.
 
-![](/aspnet-core/Diagram/Getting-Started_images/Getting-Started_img3.png)
+![Getting-Started_images3](Getting-Started_images/Getting-Started_img3.png)
 
 * Default values for all nodes and connectors can be set using default settings. For example if all nodes have same `Width` and `Height`, we can move such properties into `DefaultSettings`. Above code can be rewritten as shown below.
 
@@ -212,7 +212,7 @@ Similarly we can add required nodes and connectors to form a complete flow diagr
 
 Final flow chart will looks as shown below.
 
-![](/aspnet-core/Diagram/Getting-Started_images/Getting-Started_img4.png)
+![Getting-Started_images4](Getting-Started_images/Getting-Started_img4.png)
 
 ## Automatic organization chart
 
@@ -317,4 +317,4 @@ Following code examples indicate how to define the default appearance of node an
 
 * The Employee details are displayed in the Diagram as follows.
 
-![](/aspnet-core/Diagram/Getting-Started_images/Getting-Started_img5.png)
+![Getting-Started_images5](Getting-Started_images/Getting-Started_img5.png)
