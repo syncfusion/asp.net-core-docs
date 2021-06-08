@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Getting-Started | DateTimePicker | ASP.NET Core | Syncfusion
-description: getting started
+title: Getting Started with ASP.NET Core DateTimePicker Control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core DateTimePicker Control, its elements, and more.
 platform: aspnet-core
 control: DateTimePicker
 documentation: ug
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core DateTimePicker
 
 This section explains the essential steps required to render a DateTimePicker control in an ASP.net Core application.
 
@@ -28,7 +28,7 @@ In the above screenshot, you can select a date and time, within a week ranging f
 The DateTimePicker widget basically renders built-in features like Month and Time Navigation, with animations and flexible APIs. You can easily create the DateTimePicker widget using simple DateTimePicker element as follows.
 
 1. Create a ASP.net core Project and add necessary assemblies and scripts.
-2. [Getting Started](/aspnet-core/getting-started) section explains about basic system requirements and the steps to configure the Syncfusion Components in an ASP.net core application.
+2. [Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) section explains about basic system requirements and the steps to configure the Syncfusion Components in an ASP.net core application.
 3. After successfully adding the necessary dependencies in your solution, make sure to build the solution, so that the necessary assembly files are compiled properly before using it in your project.
 4. Add the following code to the corresponding view page to render DateTimePicker.
 

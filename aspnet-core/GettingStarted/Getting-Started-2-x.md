@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Getting Started | ASP.NET Core | Syncfusion
-description: Getting Started.
+title: Getting Started with ASP.NET Core Common Control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core Common Control, its elements, and more.
 platform: aspnet-core 
 control: Common 
 documentation: ug
 ---
 
 
-# Getting Started
+# Getting Started with ASP.NET Core Common
 
 > Starting with v16.2.0.x, if you reference Syncfusion assemblies from trial setup or from the NuGet feed, you also have to include a license key in your projects. Please refer to this [link](https://help.syncfusion.com/common/essential-studio/licensing/license-key#aspnet-core) to know about registering Syncfusion license key in your ASP.NET Core application to use our components.
   
@@ -360,7 +360,7 @@ To create an ASP.NET Core 2.x application, we will use the [**yeoman**](http://
 
 Since **Visual Studio Code** uses folder structure for storing files of application, we will create a folder of the name **ASP.NET**
 
-* Install Node from [https://nodejs.org/](https://nodejs.org/#)
+* Install Node from [https://nodejs.org/]("https://nodejs.org/#")
 
 * Open the Command prompt window in Administrator mode and execute the below mentioned command to install the **Yeoman** tool in your local machine by using **npm**.
 

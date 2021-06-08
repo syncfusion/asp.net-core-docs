@@ -1,21 +1,21 @@
 ---
 layout: post
-title: Getting-Started | ReportWriter | ASP.NET Core | Syncfusion
-description: getting started
+title: Getting Started with ASP.NET Core ReportWriter Control | Syncfusion
+description: Learn here about getting started with Syncfusion ASP.NET Core ReportWriter Control, its elements, and more.
 platform: aspnet-core
 control: ReportWriter
 documentation: ug
 ---
 
-# Overview
+# Getting Started with ASP.NET Core ReportWriter
 
 The report writer is a class library that is used to export the RDL/RDLC report with popular file formats like PDF, Microsoft Word, and Microsoft Excel without previewing the report in web page. This section describes how to export the RDL report to PDF in ASP.NET Core application using the `ReportWriter`.
 
 
 ## Environment setup
-Refer to the [installation](/aspnet-core/configuration-and-installation) page to know more about the basic steps required to configure the Syncfusion components to use with ASP.NET Core application. 
+Refer to the [installation](https://help.syncfusion.com/aspnet-core/installation-and-upgrade/system-requirements) page to know more about the basic steps required to configure the Syncfusion components to use with ASP.NET Core application. 
 
-N> NuGet package reference will be mostly preferred with ASP.NET Core development to setup the environment without installation. If you missed to explore, refer to the [nuget-package-manager-settings](/aspnet-core/nuget-packages) to configure the Syncfusion NuGet source.
+N> NuGet package reference will be mostly preferred with ASP.NET Core development to setup the environment without installation. If you missed to explore, refer to the [nuget-package-manager-settings](https://help.syncfusion.com/aspnet-core/visual-studio-integration/nuget-packages) to configure the Syncfusion NuGet source.
 
 ### References
 You should add the following packages for the report viewer:

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: ASP.NET Core NuGet Packages | ASP.NET Core | Syncfusion
-description: NuGet Packages
+description: Learn here about NuGet Packages of Syncfusion Essential Studio ASP.NET Core NuGet Packages control and more.
 platform: aspnet-core
 control: NuGet Packages
 documentation: ug
 ---
 
-# NuGet Packages
+# NuGet Packages of Syncfusion Essential ASP.NET Core
 
 [NuGet](https://www.nuget.org/) can be used to automatically add files and references to your Visual Studio projects. You can use the Syncfusion ASP.NET Core NuGet packages without installing the Essential Studio or ASP.NET Core platform installation to development with the Syncfusion ASP.NET Core controls. 
 

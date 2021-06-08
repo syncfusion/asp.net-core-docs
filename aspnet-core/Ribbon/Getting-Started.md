@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Getting Started | ASP.NET Core | Syncfusion
-description: Getting Started.
+title: Getting Started with ASP.NET Core Ribbon Control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core Ribbon Control, its elements, and more.
 platform: aspnet-core 
 control: Ribbon 
 documentation: ug
 ---
 
-# Getting Started
+# Getting Started with ASP.NET Core Ribbon
 
-Refer the [Getting Started](/aspnet-core/getting-started) page of the Introduction part to know more about the basic system requirements and the steps to configure the Syncfusion components in an ASP.NET Core application.
+Refer the [Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) page of the Introduction part to know more about the basic system requirements and the steps to configure the Syncfusion components in an ASP.NET Core application.
 
 Now, refer the necessary scripts and CSS files into your *_Layout.cshtml* page from the **wwwroot -> lib -> syncfusion-javascript** folder.
 
@@ -81,7 +81,7 @@ Define the Application Tab with `type` as `Menu` to render simple Ribbon control
 
 {% endhighlight  %}
 
-![](getting-started-images/Ribbon_img.png)
+![getting-started-images](getting-started-images/Ribbon_img.png)
 
 ## Adding Tabs
 
@@ -120,7 +120,7 @@ RibbonTab is a set of related groups which are combined into single item. For cr
 
 {% endhighlight  %}
 
-![](getting-started-images/Ribbon_img1.png)
+![getting-started-images1](getting-started-images/Ribbon_img1.png)
 
 ## Configuring Groups
 
@@ -186,7 +186,7 @@ Create `e-group` item with `text` specified and add `e-content-group` to `e-cont
 
 N> 2. Ribbon’s sample level icons can be loaded using `ej.icons.CSS` from the downloaded packages `/lib/syncfusion-javascript/Content/ej/web/ribbon-css/ej.icons.css`.
 
-![](getting-started-images/Ribbon_img2.png)
+![getting-started-images2](getting-started-images/Ribbon_img2.png)
 
 ## Adding Controls to Group
 
@@ -268,12 +268,12 @@ Syncfusion ASP.NET Core Controls can be added to TabGroup’s content with corre
 
 {% endhighlight  %}
 
-![](getting-started-images/Ribbon_img3.png)
+![getting-started-images3](getting-started-images/Ribbon_img3.png)
 
 ## User Interface
 
 Ribbon component able to integrate any custom components and customized their functionality in application end. Our Ribbon component is similar to Microsoft products(Word). The Ribbon UI consists of several sections like Application Tab, Quick Access Toolbar, Tab, Contextual Tab, Gallery and etc.The following screenshot shows the diagrammatic detail of Ribbon UI:
 
-![](getting-started-images/Ribbon.png)
+![getting-started-images4](getting-started-images/Ribbon.png)
 
 From above screenshot, you can see Ribbon has several subcomponents for different functionalities. The upcoming sections explains the brief details of each functionalities and their customizations.

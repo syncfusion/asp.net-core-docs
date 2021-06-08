@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Getting-Started
-description: getting started
+title: Getting Started with ASP.NET Core Chart Control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential Studio ASP.NET Core Chart Control, its elements, and more.
 platform: aspnet-core
 control: Chart
 documentation: ug
 ---
-# Getting Started
+# Getting Started with ASP.NET Core Chart
 
 This section explains the steps required to populate the chart with data, data labels, tooltips, and title. This section covers only minimal features that needed to get started with the Chart.
 
@@ -14,12 +14,12 @@ This section explains the steps required to populate the chart with data, data l
 
 In this tutorial, you can learn how to create a simple chart. The following screenshot displays the output after completing this tutorial.
 
-![](Getting-Started_images/Getting-Started_img3.png)
+![Getting-Started_images3](Getting-Started_images/Getting-Started_img3.png)
 
 Simple chart
 {:.caption}
 
-1. Create a new ASP.NET core project. Please refer to [ASP.Net core 1.0-Getting Started](/aspnet-core/getting-started) documentation to create new project, and add necessary DLL’s and script files.
+1. Create a new ASP.NET core project. Please refer to [ASP.Net core 1.0-Getting Started](https://help.syncfusion.com/aspnet-core/gettingstarted/getting-started-1-1-0) documentation to create new project, and add necessary DLL’s and script files.
 
 2. Add the following code in index.cshtml file to create the Chart control in View page.
 
@@ -116,7 +116,7 @@ Next, map the month and sales values in the data source to the line series by se
 {% endhighlight %}
 
 
-![](Getting-Started_images/Getting-Started_img4.png)
+![Getting-Started_images4](Getting-Started_images/Getting-Started_img4.png)
 
 
 Since the data is related to sales, format the vertical axis labels by adding ‘$’ as prefix and ‘K’ as suffix to each label. This can be achieved by setting the “${value}K” to the **label-format** option of the axis. Here, {value} acts as a placeholder for each axis label. 
@@ -136,7 +136,7 @@ The following code example illustrates this,
 
 {% endhighlight %}
 
-![](Getting-Started_images/Getting-Started_img5.png)
+![Getting-Started_images5](Getting-Started_images/Getting-Started_img5.png)
 
 ## Add data labels
 
@@ -162,7 +162,7 @@ The following code example illustrates this,
 
 {% endhighlight %}
 
-![](Getting-Started_images/Getting-Started_img6.png)
+![Getting-Started_images6](Getting-Started_images/Getting-Started_img6.png)
 
 
 There are situations where the default label content is not sufficient to the user. In this case, use the **template** option to format the label content with some additional information.
@@ -202,7 +202,7 @@ The following code example illustrates how to set the ID of the above template t
 
 {% endhighlight %}
 
-![](Getting-Started_images/Getting-Started_img7.png)
+![Getting-Started_images7](Getting-Started_images/Getting-Started_img7.png)
 
 ## Enable legend
 
@@ -222,7 +222,7 @@ You can enable or disable the legend by using the **Visible** option in the **le
 
 {% endhighlight %}
 
-![](Getting-Started_images/Getting-Started_img8.png)
+![Getting-Started_images8](Getting-Started_images/Getting-Started_img8.png)
 
 ## Enable tooltip
 
@@ -244,7 +244,7 @@ The following code example illustrates this,
 
 {% endhighlight %}
 
-![](Getting-Started_images/Getting-Started_img9.png)
+![Getting-Started_images9](Getting-Started_images/Getting-Started_img9.png)
 
 ## Add chart title
 
@@ -260,4 +260,4 @@ Chart title is used to provide quick information to the user about the data bein
 
 {% endhighlight %}
 
-![](Getting-Started_images/Getting-Started_img10.png)
+![Getting-Started_images10](Getting-Started_images/Getting-Started_img10.png)

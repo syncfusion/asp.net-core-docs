@@ -1,26 +1,26 @@
 ---
 layout: post
-title: Getting-Started | ReportViewer | ASP.NET Core | Syncfusion
-description: getting started
+title: Getting Started with ASP.NET Core ReportViewer Control | Syncfusion
+description: Learn here about getting started with Syncfusion ASP.NET Core ReportViewer Control, its elements, and more.
 platform: aspnet-core
 control: ReportViewer
 documentation: ug
 ---
 
-# Overview
+# Getting Started with ASP.NET Core ReportViewer
 
 The report viewer is a visualization control to view the Microsoft RDL/RDLC format based report on a web page, and it is powered by HTML5/JavaScript. This section explains how to add the report viewer component in the ASP.NET Core MVC application along with simple example of the invoice report.
 
 N> The report viewer control depends on server-side processing for report rendering. So, you should build the WebAPI service that is compatible for report viewer. This getting started will illustrates details of how to create the report viewer compatible Web API service also for your application.
 
 ## Environment setup
-Refer the [installation](/aspnet-core/configuration-and-installation) page to know more about the basic steps to configure the Syncfusion components to use with ASP.NET Core application. 
+Refer the [installation](https://help.syncfusion.com/aspnet-core/installation-and-upgrade/system-requirements) page to know more about the basic steps to configure the Syncfusion components to use with ASP.NET Core application. 
 
-N> NuGet package reference will be mostly preferred with ASP.NET Core development to setup the environment without installation, if you missed to explore then refer to the [nuget-package-manager-settings](/aspnet-core/nuget-packages) to configure the Syncfusion NuGet source.
+N> NuGet package reference will be mostly preferred with ASP.NET Core development to setup the environment without installation, if you missed to explore then refer to the [nuget-package-manager-settings](https://help.syncfusion.com/aspnet-core/visual-studio-integration/nuget-packages) to configure the Syncfusion NuGet source.
 
 ### Styles and scripts
 
-Ensure whether all the necessary dependency scripts and style packages are included within the *bower.json* file as mentioned [here](/aspnet-core/getting-started#configure-syncfusion-components-in-aspnet-core-application), so that the required scripts and CSS will be installed and loaded into the mentioned location (**wwwroot -> lib**) within your project.
+Ensure whether all the necessary dependency scripts and style packages are included within the *bower.json* file as mentioned [here](https://help.syncfusion.com/aspnet-core/configuration), so that the required scripts and CSS will be installed and loaded into the mentioned location (**wwwroot -> lib**) within your project.
 
 Now, refer to the necessary scripts and CSS files in your *_Layout.cshtml* page from the **wwwroot -> lib -> syncfusion-javascript** folder.
 
@@ -279,4 +279,4 @@ N> You cannot load the application report with path information in ASP.NET Core.
 
 Run the sample application, and you can see the report viewer with invoice as shown in the following screenshot:
 
-![](images/reportviewercoregettingstarted.png)
+![Getting_Started_Image](images/reportviewercoregettingstarted.png)
