@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Save and Load Report | PivotClient | ASP.NET Core | Syncfusion
-description: save and load report
+title: Save and Load Report in ASP.NET Core PivotClient Control | Syncfusion
+description: Learn here about save and load report in Syncfusion Essential in ASP.NET Core PivotClient Control, and more.
 platform: aspnet-core
 control: PivotClient
 documentation: ug
 ---
 
-# Save and load report
+# Save and load report in ASP.NET Core PivotClient Control
 
 The save and load report allows you to save the current report collection of the pivot client and render the control later on loading the same.
 

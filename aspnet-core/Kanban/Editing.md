@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Syncfusion Kanban Editing
-description: Editing
+title: Editing in ASP.NET Core Kanban Control | Syncfusion
+description: Learn here about editing in Syncfusion Essential Studio ASP.NET Core Kanban Control, its features, and more.
 documentation: ug
 control: Kanban
 platform: aspnet-core
 ---
 
-# Editing
+# Editing in ASP.NET Core Kanban Control
 
 The Kanban control has support for dynamic insertion, updating and deletion of cards. 
 

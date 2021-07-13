@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Scrolling | Kanban | ASP.NET Core | Syncfusion
-description: Scrolling
+title: Scrolling in ASP.NET Core Kanban Control | Syncfusion
+description: Learn here about Scrolling in Syncfusion Essential Studio ASP.NET Core Kanban Control, its features, and more.
 documentation: ug
 control: Kanban
 platform: aspnet-core
 ---
 
-# Scrolling
+# Scrolling in ASP.NET Core Kanban Control
 
 Scrolling can be enabled by setting `allow-scrolling` as true. The height and width can be set to Kanban by using the properties [`kanbanscroll-settings.height`] and [`kanbanscroll-settings.width`] respectively.
 

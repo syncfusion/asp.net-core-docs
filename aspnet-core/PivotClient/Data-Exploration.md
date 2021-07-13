@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Data Exploration | PivotClient | ASP.NET Core | Syncfusion
-description: data exploration
+title: Data Exploration in ASP.NET Core PivotClient Control | Syncfusion
+description: Learn here about data exploration in Syncfusion Essential ASP.NET Core PivotClient Control, and more.
 platform: aspnet-core
 control: PivotClient
 documentation: ug
 ---
 
-# Data exploration
+# Data exploration in ASP.NET Core PivotClient Control
 
 ## Filtering
 

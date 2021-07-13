@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Drag and Drop | Kanban | ASP.NET Core | Syncfusion
-description: Drag and Drop
+title: Drag and Drop in ASP.NET Core Kanban Control | Syncfusion
+description: Learn here about drag and drop in Syncfusion Essential Studio ASP.NET Core Kanban Control, its features, and more.
 documentation: ug
 control: Kanban
 platform: aspnet-core
 ---
 
-# Drag and Drop
+# Drag and Drop in ASP.NET Core Kanban Control
 
 By default, `allow-drag-and-drop` is true. Cards can be transited from one column to another column, by dragging and dropping. And it has drop position indicator which enables easier positioning of cards
 

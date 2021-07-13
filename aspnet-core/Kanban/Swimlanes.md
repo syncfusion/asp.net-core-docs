@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Swimlanes | Kanban | ASP.NET Core | Syncfusion
-description: Swimlanes
+title: Swimlanes in ASP.NET Core Kanban Control | Syncfusion
+description: Learn here about Swimlanes in Syncfusion Essential Studio ASP.NET Core Kanban Control, its features, and more.
 documentation: ug
 control: Kanban
 platform: aspnet-core
 ---
 
-# Swim lanes
+# Swim lanes in ASP.NET Core Kanban Control
 
 Swim lanes are a horizontal categorization of issues in the Kanban control which brings transparency to the workflow. This can be enabled by mapping the `swimlane-key` to appropriate column name in the `dataSource`.
 

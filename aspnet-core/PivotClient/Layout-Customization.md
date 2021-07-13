@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Layout Customization | PivotClient | ASP.NET Core | Syncfusion
-description: layout customization
+title: Layout Customization in ASP.NET Core PivotClient Control | Syncfusion
+description: Learn here about layout customization in Syncfusion Essential ASP.NET Core PivotClient Control, and more.
 platform: aspnet-core
 control: PivotClient
 documentation: ug
 ---
 
-# Layout customization
+# Layout customization in ASP.NET Core PivotClient Control
 
 ## Size
 

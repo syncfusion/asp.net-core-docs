@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Filtering | Kanban | ASP.NET Core | Syncfusion
-description: Filtering
+title: Filtering in ASP.NET Core Kanban Control | Syncfusion
+description: Learn here about filtering in Syncfusion Essential Studio ASP.NET Core Kanban Control, its features, and more.
 documentation: ug
 control: Kanban
 platform: aspnet-core
 ---
 
-# Filtering
+# Filtering in ASP.NET Core Kanban Control
 
 Filtering allows to filter the collection of cards from `dataSource` which meets the predefined `query` in the quick filters collection. To enable filtering, define [`kanbanfilter-settings`] collection with display `text` and `ej.Query`. 
 
