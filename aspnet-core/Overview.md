@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to Syncfusion Essential ASP.NET Core
-description: Overview of Syncfusion Essential ASP.NET Core widgets based on HTML5 and jQuery.
+description: Learn here all about overview of Syncfusion Essential ASP.NET Core widgets based on HTML5 and jQuery.
 platform: aspnet-core 
 control: Introduction
 documentation: ug
@@ -15,7 +15,7 @@ Essential JS is a comprehensive collection of over 80 enterprise-grade HTML5 Jav
 
 * The best way to get started would be to read the "Getting Started" section of the documentation for the component that you would like to start using first. The "Getting Started" guide gives just enough information that you need to know before starting to write code. This is the only section that we recommend reading end-to-end before starting to write code, all other information can be referred as needed.
 
-* Now that you are familiar with the basics of using the component, the next step would be to start integrating the component into your application. A good starting point would be to refer to the code snippets in the [online sample browser](http://aspnetcore.syncfusion.com/) which contains hundreds of code samples, it is very likely that you will find a code sample that resembles your intended usage scenario. 
+* Now that you are familiar with the basics of using the component, the next step would be to start integrating the component into your application. A good starting point would be to refer to the code snippets in the [online sample browser](https://aspnetcore.syncfusion.com/) which contains hundreds of code samples, it is very likely that you will find a code sample that resembles your intended usage scenario. 
 
 * After you have integrated the component into your application using one of the sample code snippets as a starting point, it is likely that you would want additional information on specific features and API. The best option would be to search a the specific topic using the search box that is available at the top of the user guide.
 
