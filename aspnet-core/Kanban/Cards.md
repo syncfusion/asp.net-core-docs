@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Cards | Kanban | ASP.NET Core | Syncfusion
-description: Cards
+title: Cards in ASP.NET Core Kanban Control | Syncfusion
+description: This section explains how to define the basic structure of cards and their features of the Syncfusion ASP.NET Core Kanban component.
 documentation: ug
 control: Kanban
 platform: aspnet-core
 ---
 
-# Cards
-
-## Customization
+# Cards in ASP.NET Core Kanban
 
 Cards can be customized with appropriate mapping fields from the database. The customizable mapping properties are listed as follows
 

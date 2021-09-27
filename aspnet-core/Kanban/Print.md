@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Print | Kanban | ASP.NET Core | Syncfusion
-description: Print
+description: This section explains how to perform printing feature using the Syncfusion ASP.NET Core Kanban component.
 documentation: ug
 control: Kanban
 platform: aspnet-core
 ---
 
-# Print
+# Print in ASP.NET Core Kanban
 
  Set `allow-printing` as true, to enable Print icon in the Kanban toolbar.  You can use `print()` method from Kanban instance to print the Kanban.
 
@@ -95,6 +95,6 @@ The following code example describes the above behavior.
 
 The following output is displayed as a result of the above code example.
 
-![](Printing_images/print_img1.png)
+![kanban printing1](Printing_images/print_img1.png)
 
 

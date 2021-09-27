@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Kanban | Kanban | ASP.NET Core | Syncfusion
-description: Kanban Introduction
+description: This section explains the short description of basic features on the Syncfusion ASP.NET Core Kanban component. 
 documentation: ug
 platform: aspnet-core
 keywords: overview
 ---
 
-# Overview
+# Overview of Syncfusion ASP.NET Core
 
 The Kanban control for ASP.NET Core is an efficient way to visualize the workflow at each stage along its path to completion. The most important features available are Swim lane, filtering, and editing.
 

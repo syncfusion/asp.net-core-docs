@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Context Menu  | Kanban | ASP.NET Core | Syncfusion
-description: Context Menu 
+title: Context Menu in ASP.NET Core Kanban Control | Syncfusion
+description: This section explains how to enable context menu and its functionalities using the Syncfusion ASP.NET Core Kanban component.
 documentation: ug
 control: Kanban
 platform: aspnet-core
 ---
 
-# Context Menu 
+# Context Menu in ASP.NET Core Kanban
 
 Context menu is used to improve user action with Kanban using popup menu. It can be shown by defining [`kanbancontext-menu-settings.enable`] as true. Context menu has option to add default items in [`kanbancontext-menu-settings.MenuItems`] and customized items in [`kanbancontext-menu-settings.custom-menu-items`].
 

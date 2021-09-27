@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Stacked Headers | Kanban | ASP.NET Core | Syncfusion
-description: Stacked Headers
+description: This section explains how to define the stacked headers in the Syncfusion ASP.NET Core Kanban component.
 documentation: ug
 control: Kanban
 platform: aspnet-core
 ---
 
-# Stacked Headers
+# Stacked Headers in ASP.NET Core Kanban
 
 The stacked headers help you to group the logical columns in Kanban. It can be shown by setting `show-stacked-header` as true and by defining `stacked-header-rows`.
 

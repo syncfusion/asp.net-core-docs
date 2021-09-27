@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Responsive | Kanban | ASP.NET Core | Syncfusion
-description: Responsive
+description: This section explains the responsive behavior of the Syncfusion ASP.NET Core Kanban component based on the client browser width and height.
 documentation: ug
 control: Kanban
 platform: aspnet-core
 ---
 
-# Responsive
+# Responsive in ASP.NET Core Kanban
 
 The Kanban control has support for responsive behavior based on client browser’s width and height. To enable responsive, `is-responsive` property should be true.There are two modes of responsive layout is available in Kanban based on client width. They are.
 

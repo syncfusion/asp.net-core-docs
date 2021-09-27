@@ -1,15 +1,13 @@
 ---
 layout: post
 title: Configuration and Installation | ASP.NET Core | Syncfusion
-description: Configuration and Installation
+description: Learn here about configuration and installation in Syncfusion Essential ASP.NET Core, its elements, and more.
 platform: aspnet-core
 control: Common 
 documentation: ug
 ---
 
-## Configuring Syncfusion Bower Packages
-
-### Overview
+# Configuring Syncfusion Bower Packages
 
 [Bower](http://bower.io) is a package manager for the Web. Syncfusion Bower package allows you to use the Syncfusion JavaScript Widgets in an efficient way.
 
@@ -38,7 +36,7 @@ Perform the below steps to install Syncfusion Bower Package via command prompt i
    bower install syncfusion-javascript
    ~~~
    
-   ![](Installation-and-Deployment_images/Installation-and-Deployment_img1.jpeg)
+   ![Installation-and-Deployment_images1](Installation-and-Deployment_images/Installation-and-Deployment_img1.jpeg)
 
 3. The Bower will install the Syncfusion JavaScript files into the project location to develop with Syncfusion controls.
 
@@ -49,12 +47,12 @@ N>'bower install Syncfusion-javascript#13.3.0.18'
 
 In another way, you can add the packages to the bower.json file by simply specify the package name. This will install/restore the packages to your project. Please refer the below image.
  
-![](Installation-and-Deployment_images/Installation-and-Deployment_img2.jpeg)
+![Installation-and-Deployment_images2](Installation-and-Deployment_images/Installation-and-Deployment_img2.jpeg)
 
 N>ASP.NET 5 (preview) projects have bower.json file by default. If your project doesn’t have bower.json file then run the below command from your project directory by Command prompt. 
 N>'bower init'
 
-![](Installation-and-Deployment_images/Installation-and-Deployment_img3.jpeg)
+![Installation-and-Deployment_images3](Installation-and-Deployment_images/Installation-and-Deployment_img3.jpeg)
 
 #### From local directory
 
@@ -62,11 +60,11 @@ You can install the Syncfusion Bower package from a local directory. To perform 
 
 1. Navigate the [Syncfusion JavaScript Bower repository](https://github.com/syncfusion/JavaScript-Widgets/) location on GitHub and download the repository as zip by clicking the “Download ZIP” button and extract the contents in your computer’s any of the local directory.
 
-   ![](Installation-and-Deployment_images/Installation-and-Deployment_img4.jpeg)
+   ![Installation-and-Deployment_images4](Installation-and-Deployment_images/Installation-and-Deployment_img4.jpeg)
 
 2. Then run the install command by providing the package content’s location. 
 
-   ![](Installation-and-Deployment_images/Installation-and-Deployment_img5.jpeg)
+   ![Installation-and-Deployment_images5](Installation-and-Deployment_images/Installation-and-Deployment_img5.jpeg)
 
 ### Bower Update
 
@@ -76,7 +74,7 @@ To update the installed Bower packages, run the command Bower update <package na
 bower update syncfusion-javascript
 ~~~
 
-![](Installation-and-Deployment_images/Installation-and-Deployment_img6.jpeg)
+![Installation-and-Deployment_images6](Installation-and-Deployment_images/Installation-and-Deployment_img6.jpeg)
 
 ## Configuring Syncfusion npm Packages
 
@@ -112,7 +110,7 @@ Follow the below steps to install Syncfusion JavaScript npm package via command 
    npm install syncfusion-javascript
    ~~~
 
-   ![](Installation-and-Deployment_images/npminstallationsteps_img1.jpeg)
+   ![Installation-and-Deployment_images7](Installation-and-Deployment_images/npminstallationsteps_img1.jpeg)
 
 3. npm install the Syncfusion JavaScript assets into the project location to develop with Syncfusion controls.  
 
@@ -124,12 +122,12 @@ N> 'npm install Syncfusion-javascript@14.1.46'
 
 Add the Syncfusion JavaScript packages to the package.json by simply specify the package name. This will install/restore the package to the Visual Studio project. Refer the below image.
 
-![](Installation-and-Deployment_images/npminstallationsteps_img2.jpeg)
+![Installation-and-Deployment_images8](Installation-and-Deployment_images/npminstallationsteps_img2.jpeg)
 
 N> ASP.NET 5 (preview) projects have package.json file by default. Visual Studio project doesn’t have package.json file then, run the below command using the project command prompt.  
 N> 'npm init'
 
-![](Installation-and-Deployment_images/npminstallationsteps_img3.jpeg)
+![Installation-and-Deployment_images9](Installation-and-Deployment_images/npminstallationsteps_img3.jpeg)
 
 #### From Local Directory
 
@@ -137,11 +135,11 @@ Install the Syncfusion JavaScript npm package from a local directory.
 
 1. Navigate the [Syncfusion JavaScript repository](https://github.com/syncfusion/JavaScript-Widgets) location on GitHub and download the repository as zip by clicking the “Download ZIP” button and extract the contents in your computer’s any of the local directory.
 
-   ![](Installation-and-Deployment_images/npminstallationsteps_img4.jpeg)
+   ![Installation-and-Deployment_images10](Installation-and-Deployment_images/npminstallationsteps_img4.jpeg)
 
 2. Run the install command by providing the package content location.
 
-   ![](Installation-and-Deployment_images/npminstallationsteps_img5.jpeg)
+   ![Installation-and-Deployment_images11](Installation-and-Deployment_images/npminstallationsteps_img5.jpeg)
 
 ### npm Update
 
@@ -153,7 +151,7 @@ To update the globally installed npm packages, run the below command to update t
 npm install g- syncfusion-javascript
 ~~~
 
-![](Installation-and-Deployment_images/npminstallationsteps_img6.jpeg)
+![Installation-and-Deployment_images12](Installation-and-Deployment_images/npminstallationsteps_img6.jpeg)
 
 ### Updating local packages
 
@@ -163,7 +161,7 @@ To update the locally installed npm packages, run the below command to update th
 npm update
 ~~~
 
-![](Installation-and-Deployment_images/npminstallationsteps_img7.jpeg)
+![Installation-and-Deployment_images13](Installation-and-Deployment_images/npminstallationsteps_img7.jpeg)
 
 ## Configuring Syncfusion JSPM Packages
 
@@ -189,7 +187,7 @@ Follow the below steps to install Syncfusion JavaScript JSPM package via command
    jspm install syncfusion=github:syncfusion/Javascript-Widgets
    ~~~
    
-   ![](Installation-and-Deployment_images/jspminstallationsteps_img1.jpeg)
+   ![Installation-and-Deployment_images14](Installation-and-Deployment_images/jspminstallationsteps_img1.jpeg)
 
    B) To install the Syncfusion JavaScript JSPM package via npm repository.
    
@@ -209,7 +207,7 @@ To update all the installed packages by using below command.
 jspm update
 ~~~
 
-![](Installation-and-Deployment_images/jspminstallationsteps_img1.jpeg)
+![Installation-and-Deployment_images15](Installation-and-Deployment_images/jspminstallationsteps_img1.jpeg)
 
 To update specific package by using below commands.
 

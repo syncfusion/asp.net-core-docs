@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Workflows | Kanban | ASP.NET Core | Syncfusion
-description: Workflows
+description: This section explains the flow of cards between the Kanban columns in the Syncfusion ASP.NET Core Kanban component. 
 documentation: ug
 control: Kanban
 platform: aspnet-core
 ---
 
-# Workflows 
+# Workflows in ASP.NET Core Kanban
 
 Workflows can be defined to set the flow of card moving between the Kanban column statuses and it is applicable to drag and drop and context menu features.
 
