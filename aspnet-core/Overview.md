@@ -19,7 +19,7 @@ Essential JS is a comprehensive collection of over 80 enterprise-grade HTML5 Jav
 
 * After you have integrated the component into your application using one of the sample code snippets as a starting point, it is likely that you would want additional information on specific features and API. The best option would be to search a the specific topic using the search box that is available at the top of the user guide.
 
-* Another valuable resource is the [API reference](https://help.syncfusion.com/cr/aspnet-core/ej) which provides detailed information on the object hierarchy as well as the settings available on every object.
+* Another valuable resource is the [API reference](https://help.syncfusion.com/cr/aspnet-core) which provides detailed information on the object hierarchy as well as the settings available on every object.
 
 ## Additional help resources
 
